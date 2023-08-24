@@ -41,12 +41,11 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
-
+Eh aprendido a poner los elementos en diferentes pociones, también a manipular imágenes de fondo
 
 ### Continued development
-
-
+Improve the use of flexblox or css grid to better position the elements. 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Click](https://www.frontendmentor.io/profile/spectrxtt)
+- Twitter - [Click](https://www.twitter.com/SPECTRE_tt)
